@@ -1,6 +1,9 @@
 # Critical-Starter
 A basic HTML5, Bootstrap 4, JQuery and Font-Awesome starter project using Critical to improve pagespeed insight score.
 
+Generate and inline critical-path CSS using [Critical](http://github.com/addyosmani/critical).
+Thanks to [Critical Path Demo](https://github.com/addyosmani/critical-path-css-demo)
+
 ## Installation
 
 ```sh

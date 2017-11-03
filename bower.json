@@ -3,7 +3,8 @@
   "private": true,
   "dependencies": {
     "jquery": "~1.11.0",
-    "components-font-awesome": "^4.7.0"
+    "components-font-awesome": "^4.7.0",
+    "bootstrap": "v4.0.0-beta"
   },
   "devDependencies": {},
   "overrides": {

@@ -1,4 +1,7 @@
 # Critical-Starter
+
+[ ![Codeship Status for Bigalan09/critical-starter](https://app.codeship.com/projects/1b742ea0-a2c3-0135-436c-7a11b80692af/status?branch=master)](https://app.codeship.com/projects/254761)
+
 A basic HTML5, Bootstrap 4, JQuery and Font-Awesome starter project using Critical to improve pagespeed insight score.
 
 Generate and inline critical-path CSS using [Critical](http://github.com/addyosmani/critical).
